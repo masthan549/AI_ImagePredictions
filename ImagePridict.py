@@ -12,7 +12,7 @@ class GUI_COntroller:
        This class initialize the required controls for TkInter GUI
     '''
     def __init__(self,TkObject):
-
+ 
 
         global imageLocation_dynamicUpdate, statusBarText, TkObject_ref, predictionResult
         TkObject_ref = TkObject
